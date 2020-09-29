@@ -1,24 +1,15 @@
-	body{
-           background-color:blue
+body{
+    background-color:white
   	}
 
-        h1{
-           font-family:Verdana,sans-serif;
-           border: 5px dashed orange;
-           text-shadow: 2px 2px;
-	   font-style:italic;
-	   font-size:40pt;
-           color:purple;
-           text-align:center
-        }
+h1{
+   font-family:Verdana,sans-serif;
+   border: 5px dashed orange;
+   text-shadow: 2px 2px;
+   font-style:italic;
+   font-size:40pt;
+   color:purple;
+   text-align:center
+}
 
-        h2{
-	  background-image: url("https://media.giphy.com/media/SUA9E0GcSyhCU/giphy.gif");
-	  color:white;
-	  font-size:30pt;
-	  font-family: Helvetica,Arial;
-          border: 5px solid yellow;
-	  border-radius:25px;
-          text-align:left;
-       }
-	p{ text-align:center;} 
+p{text-align:center;} 
